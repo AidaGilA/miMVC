@@ -1,0 +1,15 @@
+{
+    "name": "aidagil/root",
+    "autoload": {
+        "psr-4": {
+            "Aidagil\\Root\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aida",
+            "email": "aigil@ikaslea.birt.eus"
+        }
+    ],
+    "require": {}
+}
